@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @natasha1984
-- 👀 I’m interested in protecting the earth
+- 👀 I’m interested to save the world
 - 🌱 I’m currently learning swiftUI
 - 💞️ I’m looking to collaborate on iOS Apps
 - 📫 How to reach me ...
